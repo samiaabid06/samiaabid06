@@ -70,5 +70,4 @@ I enjoy building **responsive and interactive web applications** using:
 
 ---
 
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/samiaabid06/count.svg)
+
