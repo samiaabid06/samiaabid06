@@ -1,73 +1,237 @@
-# 👋 Hi, I’m **Samia Abid**
+````markdown
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samia_Abid-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samia-abid-42573026a/) 
-[![Gmail](https://img.shields.io/badge/Email-samiakhan5236@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:samiakhan5236@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/samiaabid06?label=Follow&style=social)](https://github.com/samiaabid06)
+# Hi, I'm Samia Abid 👋
+
+### AI Engineer • Backend Developer • Open Source Contributor
+
+Building **AI-powered applications, intelligent backend systems, and practical software solutions.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samia%20Abid-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiaabid15/)
+[![GitHub](https://img.shields.io/badge/GitHub-samiaabid06-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiaabid06)
+[![X](https://img.shields.io/badge/X-SamiaAbid15-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamiaAbid15)
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
-I’m a **B.Tech CSE’27** student with expertise in **Web Development, DevOps, and Cloud technologies**. I focus on building **scalable, modern, and maintainable applications**, while optimizing development workflows.
+## 🧑‍💻 About Me
 
-- 🎯 Continuously learning and building real-world projects  
-- 🚀 Exploring DevOps, Docker, CI/CD pipelines, and AWS Cloud  
-- 🛠️ Actively contributing to Open Source and enhancing my GitHub portfolio  
+I'm an **AI Engineer and Backend Developer** focused on building intelligent applications and solving real-world problems through software.
+
+My work and learning span **Generative AI, LLMs, RAG, backend development, REST APIs, web technologies, databases, and cloud platforms**.
+
+- 🤖 Building applications with **LLMs, RAG, LangChain & LangGraph**
+- ⚙️ Developing backend services and **REST APIs**
+- 🧠 Exploring **Generative AI, document intelligence & AI automation**
+- 🌐 Building modern web applications with **React.js & Node.js**
+- ☁️ Working with **AWS, Docker & cloud technologies**
+- 🌱 Continuously improving my skills in **AI Engineering & Backend Development**
+- 🚀 Open Source Contributor & former **Tech Co-Lead @ Tezos JH**
+- 🏆 Active in hackathons, workshops and developer communities
+
+---
+
+## 🧠 AI / Generative AI
+
+I work with modern AI technologies to build practical and intelligent applications.
+
+**Core Areas**
+
+`LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering`
+
+**Interests**
+
+- 🤖 Generative AI Applications
+- 🔎 Retrieval-Augmented Generation
+- 📄 Document Intelligence
+- 💬 AI Chatbots
+- ⚡ AI-powered Automation
+- 🧠 Intelligent Information Systems
+
+---
+
+## ⚙️ Backend Development
+
+### Languages
+
+`Python` `Java` `JavaScript` `SQL`
+
+### Frameworks & APIs
+
+`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
+
+### Databases
+
+`MongoDB` `MySQL`
+
+Focused on building **clean APIs, backend services, database-driven applications, and AI-integrated systems**.
 
 ---
 
 ## 🌐 Web Development
-I enjoy building **responsive and interactive web applications** using:
 
-- 💻 **Languages:** HTML, CSS, JavaScript  
-- ⚡ **Frameworks/Tools:** React.js, Node.js, Express.js, Bootstrap  
-- 🎨 UI/UX design with **Figma** and **Canva**
+### Frontend
 
----
+`React.js` `HTML` `CSS` `JavaScript`
 
-## ⚙️ DevOps & Cloud
-- 🐙 **Version Control:** Git & GitHub  
-- 🐳 **Containerization:** Docker  
-- ⚙️ **CI/CD & Workflow Automation:** GitHub Actions, Jenkins (learning)  
-- ☁️ **Cloud:** AWS fundamentals & deployments  
+### Backend
+
+`Node.js` `Express.js` `FastAPI` `Flask`
+
+I enjoy building **responsive interfaces and full-stack applications** with a strong focus on functionality, usability, and maintainable code.
 
 ---
 
-## 🛠️ Skills
+## ☁️ Cloud & Development Tools
 
-**Languages:** `C`, `C++`, `Python`, `HTML`, `CSS`, `JavaScript`  
-**Frameworks/Libraries:** `React.js`, `Node.js`, `Express.js`, `Bootstrap`  
-**Tools & Platforms:** `Git`, `GitHub`, `Docker`, `VS Code`  
-**Databases:** `MongoDB`, `MySQL`  
-**Design:** `UI/UX`, `Figma`, `Canva`  
+| Category | Technologies |
+|---|---|
+| ☁️ Cloud | AWS |
+| 🐳 Containers | Docker |
+| 🔧 Version Control | Git • GitHub • Bitbucket |
+| 🖥️ Environment | Linux |
+| 🧪 API Tools | Postman |
+| 📊 Analytics | Power BI |
+| 🎨 Design | Figma • Canva |
 
-**Currently Learning:** Data Structures & Algorithms (DSA), Operating Systems, Advanced DevOps tools  
-
----
-
-## 📊 GitHub Stats
-![Samia's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiaabid06&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samiaabid06&layout=compact&theme=radical)
+> 🌱 Currently expanding my knowledge of **Cloud & DevOps technologies**.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+<div align="center">
+
+### 💻 Languages
+`Python` `Java` `JavaScript` `SQL` `C` `C++`
+
+### 🤖 AI / GenAI
+`LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering`
+
+### ⚙️ Backend
+`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
+
+### 🌐 Frontend
+`React.js` `HTML` `CSS` `JavaScript`
+
+### 🗄️ Databases
+`MongoDB` `MySQL`
+
+### ☁️ Cloud & Tools
+`AWS` `Docker` `Git` `GitHub` `Bitbucket` `Linux` `Postman` `Power BI`
+
+### 🎨 Design
+`Figma` `Canva`
+
+</div>
 
 ---
 
+## 🚀 What I Build
+
+```text
+                    AI ENGINEERING
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+        GenAI         Backend        AI Apps
+          │              │              │
+          └──────────────┼──────────────┘
+                         │
+                    Web + Cloud
+                         │
+                         ▼
+                Real-World Solutions
+````
+
+I enjoy working at the intersection of:
+
+**AI × Backend × Web × Cloud**
+
+with a focus on turning ideas into practical software.
+
+---
+
+## 🌱 Open Source & Community
+
+### Former Tech Co-Lead — Tezos JH
+
+* 🌐 Contributed to open-source initiatives
+* 🤝 Collaborated with developers on technical projects
+* 🧑‍🏫 Mentored peers and supported technical learning
+* 🚀 Participated in developer-focused initiatives and events
+
+### Communities
+
+`Tezos JH` • `GDG` • `HackedJH`
+
+### Community Activities
+
+🎤 Workshops
+💻 Hackathons
+🌐 Open Source
+🤝 Developer Communities
+📚 Technical Learning
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiaabid06\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samiaabid06\&hide_border=true\&theme=transparent)
+
+</div>
+
+---
+
+## 🎯 Currently
+
+**Learning**
+AI Engineering • Backend Development • Cloud Technologies
+
+**Building**
+AI-powered applications • Backend services • Intelligent solutions
+
+**Contributing**
+Open Source • Developer Communities • Technical Initiatives
+
+**Looking For**
+AI Engineering • Generative AI • Backend Development • Software Engineering opportunities
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, recruiters, founders, and people working on interesting technology.
+
+<div align="center">
+
+### Let's build something meaningful. 🚀
+
+📧 **[samiakhan5236@gmail.com](mailto:samiakhan5236@gmail.com)**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samiaabid15/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/samiaabid06)
+[![X](https://img.shields.io/badge/X-Follow-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SamiaAbid15)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**AI • Backend • Open Source • Building in Public**
+
+</div>
+```
 
