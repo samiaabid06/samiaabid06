@@ -178,34 +178,6 @@ with a focus on turning ideas into practical software.
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiaabid06\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=samiaabid06\&hide_border=true\&theme=transparent)
-
-</div>
-
----
-
-## 🎯 Currently
-
-**Learning**
-AI Engineering • Backend Development • Cloud Technologies
-
-**Building**
-AI-powered applications • Backend services • Intelligent solutions
-
-**Contributing**
-Open Source • Developer Communities • Technical Initiatives
-
-**Looking For**
-AI Engineering • Generative AI • Backend Development • Software Engineering opportunities
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with developers, recruiters, founders, and people working on interesting technology.
@@ -233,5 +205,4 @@ I'm always open to connecting with developers, recruiters, founders, and people 
 **AI • Backend • Open Source • Building in Public**
 
 </div>
-```
 
