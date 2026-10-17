@@ -1,208 +1,60 @@
 
 <div align="center">
 
-# Hi, I'm Samia Abid 👋
+# Hi, I'm Samia Abid
 
-### AI Engineer • Backend Developer • Open Source Contributor
+**AI/ML · Generative AI · Backend Development**
 
-Building **AI-powered applications, intelligent backend systems, and practical software solutions.**
+Building practical applications with AI and software engineering.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samia%20Abid-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiaabid15/)
-[![GitHub](https://img.shields.io/badge/GitHub-samiaabid06-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samiaabid06)
-[![X](https://img.shields.io/badge/X-SamiaAbid15-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SamiaAbid15)
+[LinkedIn](https://www.linkedin.com/in/samiaabid15/) · [X](https://x.com/SamiaAbid15) · [Email](mailto:samiakhan5236@gmail.com)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### About
 
-I'm an **AI Engineer and Backend Developer** focused on building intelligent applications and solving real-world problems through software.
+I'm an AI/ML Engineer working across machine learning, Generative AI, backend development, and web technologies.
 
-My work and learning span **Generative AI, LLMs, RAG, backend development, REST APIs, web technologies, databases, and cloud platforms**.
+- Former AI/ML Intern at Bennett, Coleman & Co. Ltd. (The Times of India Group).
+- Interested in building AI-powered applications, LLM-based systems, and practical software solutions.
+- Former Tech Co-Lead at Tezos JH and open-source contributor.
+- Open to collaborations and opportunities in AI and software development.
 
-- 🤖 Building applications with **LLMs, RAG, LangChain & LangGraph**
-- ⚙️ Developing backend services and **REST APIs**
-- 🧠 Exploring **Generative AI, document intelligence & AI automation**
-- 🌐 Building modern web applications with **React.js & Node.js**
-- ☁️ Working with **AWS, Docker & cloud technologies**
-- 🌱 Continuously improving my skills in **AI Engineering & Backend Development**
-- 🚀 Open Source Contributor & former **Tech Co-Lead @ Tezos JH**
-- 🏆 Active in hackathons, workshops and developer communities
+### Tech Stack
 
----
+**Languages & Data**
 
-## 🧠 AI / Generative AI
+`Python` `Java` `JavaScript` `SQL` `NumPy` `Pandas`
 
-I work with modern AI technologies to build practical and intelligent applications.
+**AI & Machine Learning**
 
-**Core Areas**
+`Machine Learning` `Deep Learning` `PyTorch` `LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering`
 
-`LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering`
+**Backend & Web**
 
-**Interests**
+`FastAPI` `Flask` `Node.js` `React.js` `REST APIs` `HTML` `CSS`
 
-- 🤖 Generative AI Applications
-- 🔎 Retrieval-Augmented Generation
-- 📄 Document Intelligence
-- 💬 AI Chatbots
-- ⚡ AI-powered Automation
-- 🧠 Intelligent Information Systems
+**Databases & Tools**
 
----
+`MySQL` `MongoDB` `Git` `GitHub` `Docker` `AWS` `Linux` `Postman`
 
-## ⚙️ Backend Development
+### Current Focus
 
-### Languages
+- Building practical AI and Generative AI applications.
+- Exploring LLMs, RAG pipelines, and AI-powered automation.
+- Improving backend engineering, API development, and deployment skills.
+- Contributing to open-source projects and collaborating with developers.
 
-`Python` `Java` `JavaScript` `SQL`
+### Projects
 
-### Frameworks & APIs
+Explore my pinned repositories below to see what I'm building across AI/ML, software development, and web technologies.
 
-`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
+### Connect
 
-### Databases
+I'm open to connecting with developers, recruiters, and collaborators working on interesting technical projects.
 
-`MongoDB` `MySQL`
+**Email:** [samiakhan5236@gmail.com](mailto:samiakhan5236@gmail.com)
 
-Focused on building **clean APIs, backend services, database-driven applications, and AI-integrated systems**.
-
----
-
-## 🌐 Web Development
-
-### Frontend
-
-`React.js` `HTML` `CSS` `JavaScript`
-
-### Backend
-
-`Node.js` `Express.js` `FastAPI` `Flask`
-
-I enjoy building **responsive interfaces and full-stack applications** with a strong focus on functionality, usability, and maintainable code.
-
----
-
-## ☁️ Cloud & Development Tools
-
-| Category | Technologies |
-|---|---|
-| ☁️ Cloud | AWS |
-| 🐳 Containers | Docker |
-| 🔧 Version Control | Git • GitHub • Bitbucket |
-| 🖥️ Environment | Linux |
-| 🧪 API Tools | Postman |
-| 📊 Analytics | Power BI |
-| 🎨 Design | Figma • Canva |
-
-> 🌱 Currently expanding my knowledge of **Cloud & DevOps technologies**.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-`Python` `Java` `JavaScript` `SQL` `C` `C++`
-
-### 🤖 AI / GenAI
-`LLMs` `RAG` `LangChain` `LangGraph` `Prompt Engineering`
-
-### ⚙️ Backend
-`FastAPI` `Flask` `Node.js` `Express.js` `REST APIs`
-
-### 🌐 Frontend
-`React.js` `HTML` `CSS` `JavaScript`
-
-### 🗄️ Databases
-`MongoDB` `MySQL`
-
-### ☁️ Cloud & Tools
-`AWS` `Docker` `Git` `GitHub` `Bitbucket` `Linux` `Postman` `Power BI`
-
-### 🎨 Design
-`Figma` `Canva`
-
-</div>
-
----
-
-## 🚀 What I Build
-
-```text
-                    AI ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-        GenAI         Backend        AI Apps
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                    Web + Cloud
-                         │
-                         ▼
-                Real-World Solutions
-````
-
-I enjoy working at the intersection of:
-
-**AI × Backend × Web × Cloud**
-
-with a focus on turning ideas into practical software.
-
----
-
-## 🌱 Open Source & Community
-
-### Former Tech Co-Lead — Tezos JH
-
-* 🌐 Contributed to open-source initiatives
-* 🤝 Collaborated with developers on technical projects
-* 🧑‍🏫 Mentored peers and supported technical learning
-* 🚀 Participated in developer-focused initiatives and events
-
-### Communities
-
-`Tezos JH` • `GDG` • `HackedJH`
-
-### Community Activities
-
-🎤 Workshops
-💻 Hackathons
-🌐 Open Source
-🤝 Developer Communities
-📚 Technical Learning
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to connecting with developers, recruiters, founders, and people working on interesting technology.
-
-<div align="center">
-
-### Let's build something meaningful. 🚀
-
-📧 **[samiakhan5236@gmail.com](mailto:samiakhan5236@gmail.com)**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samiaabid15/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/samiaabid06)
-[![X](https://img.shields.io/badge/X-Follow-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SamiaAbid15)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**AI • Backend • Open Source • Building in Public**
-
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/samiaabid15/) · [GitHub](https://github.com/samiaabid06) · [X](https://x.com/SamiaAbid15)
